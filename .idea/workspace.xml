@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c67f4aeb-c694-4fc0-aca8-8de0e681b294" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+        <option value="AnnotationType" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1caWhuoeAUe0jO7CPKxOCTPJZzh" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RunManager">
+    <configuration name="VendasApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="io.github.matheus.VendasApplication" />
+      <module name="Vendas" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.github.matheus.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.VendasApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c67f4aeb-c694-4fc0-aca8-8de0e681b294" name="Default Changelist" comment="" />
+      <created>1590767306968</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1590767306968</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="0" y="38" key="#Project_Structure" timestamp="1591115122827">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="0" y="38" key="#Project_Structure/0.0.1366.738@0.0.1366.738" timestamp="1591115122827" />
+    <state x="72" y="175" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1591051770381">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="72" y="175" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.738@0.0.1366.738" timestamp="1591051770381" />
+    <state width="637" height="319" key="GridCell.Tab.0.bottom" timestamp="1591125298415">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="637" height="319" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1591125298415" />
+    <state width="637" height="319" key="GridCell.Tab.0.center" timestamp="1591125298415">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="637" height="319" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1591125298415" />
+    <state width="637" height="319" key="GridCell.Tab.0.left" timestamp="1591125298414">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="637" height="319" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1591125298414" />
+    <state width="637" height="319" key="GridCell.Tab.0.right" timestamp="1591125298415">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="637" height="319" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1591125298415" />
+    <state x="151" y="0" key="SettingsEditor" timestamp="1590768182582">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="151" y="0" key="SettingsEditor/0.0.1366.738@0.0.1366.738" timestamp="1590768182582" />
+    <state x="217" y="193" key="com.intellij.ide.util.TipDialog" timestamp="1590767330158">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="217" y="193" key="com.intellij.ide.util.TipDialog/0.0.1366.738@0.0.1366.738" timestamp="1590767330158" />
+    <state x="690" y="0" width="607" height="738" key="find.popup" timestamp="1591052258377">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="690" y="0" width="607" height="738" key="find.popup/0.0.1366.738@0.0.1366.738" timestamp="1591052258377" />
+    <state x="4" y="59" width="672" height="678" key="search.everywhere.popup" timestamp="1591043334519">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="4" y="59" width="672" height="678" key="search.everywhere.popup/0.0.1366.738@0.0.1366.738" timestamp="1591043334519" />
+  </component>
+</project>
